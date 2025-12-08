@@ -1,73 +1,80 @@
 [
-    {
-      "guid": "cpwvdVEzKN",
-      "type": "Guide",
-      "name": "Assembly Guide",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Assembly-Guide-Spirit.png",
-      "tree": "FvRPGlaPpW",
-      "treeRevisions": ["WKeFg1cVbG"],
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Assembly_Guide"
-      }
-    },
-    {
-      "guid": "94UEgV7ic1",
-      "type": "Season",
-      "name": "Baffled Botanist",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/81/Assembly-Spirit-Baffled-Botanist.png",
-      "tree": "u-NLeQNopc",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Baffled_Botanist"
-      }
-    },
-    {
-      "guid": "RG-Z1xwway",
-      "type": "Season",
-      "name": "Scolding Student",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/10/Assembly-Spirit-Scolding-Student.png",
-      "tree": "tJ92dz1ans",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Scolding_Student"
-      }
-    },
-    {
-      "guid": "lE8DJQLcg5",
-      "type": "Season",
-      "name": "Scaredy Cadet",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0c/Assembly-Spirit-Scaredy-Cadet.png",
-      "tree": "BTXu36Anhy",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Scaredy_Cadet"
-      }
-    },
-    {
-      "guid": "H30afxXKT1",
-      "type": "Season",
-      "name": "Marching Adventurer",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dd/Assembly-Spirit-Marching-Adventurer.png",
-      "tree": "MaqbAvyQQ8",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Marching_Adventurer"
-      }
-    },
-    {
-      "guid": "NGSlfCM_wu",
-      "type": "Season",
-      "name": "Chuckling Scout",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Assembly-Spirit-Chuckling-Scout.png",
-      "tree": "n43yrGprN_",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Chuckling_Scout"
-      }
-    },
-    {
-      "guid": "MZZ5RA0AMG",
-      "type": "Season",
-      "name": "Daydream Forester",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dc/Assembly-Spirit-Daydream-Forester.png",
-      "tree": "oeVXh5azl3",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Daydream_Forester"
-      }
+  {
+    "guid": "cpwvdVEzKN",
+    "type": "Guide",
+    "name": "Assembly Guide",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/63/Assembly-Guide-Spirit.png",
+    "tree": "FvRPGlaPpW",
+    "treeRevisions": [
+      "WKeFg1cVbG"
+    ],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Assembly_Guide"
     }
+  },
+  {
+    "guid": "94UEgV7ic1",
+    "type": "Season",
+    "name": "Baffled Botanist",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/81/Assembly-Spirit-Baffled-Botanist.png",
+    "tree": "u-NLeQNopc",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Baffled_Botanist"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d8/02_HF_Seasonal_Spirit_-_Baffled_Botanist.png"
+  },
+  {
+    "guid": "RG-Z1xwway",
+    "type": "Season",
+    "name": "Scolding Student",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/10/Assembly-Spirit-Scolding-Student.png",
+    "tree": "tJ92dz1ans",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Scolding_Student"
+    }
+  },
+  {
+    "guid": "lE8DJQLcg5",
+    "type": "Season",
+    "name": "Scaredy Cadet",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/0c/Assembly-Spirit-Scaredy-Cadet.png",
+    "tree": "BTXu36Anhy",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Scaredy_Cadet"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1d/02_HF_Seasonal_Spirit_-_Scaredy_Cadet.png"
+  },
+  {
+    "guid": "H30afxXKT1",
+    "type": "Season",
+    "name": "Marching Adventurer",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dd/Assembly-Spirit-Marching-Adventurer.png",
+    "tree": "MaqbAvyQQ8",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Marching_Adventurer"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5b/02_HF_Seasonal_Spirit_-_Marching_Adventurer.png"
+  },
+  {
+    "guid": "NGSlfCM_wu",
+    "type": "Season",
+    "name": "Chuckling Scout",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b8/Assembly-Spirit-Chuckling-Scout.png",
+    "tree": "n43yrGprN_",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Chuckling_Scout"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ca/02_HF_Seasonal_Spirit_-_Chuckling_Scout.png"
+  },
+  {
+    "guid": "MZZ5RA0AMG",
+    "type": "Season",
+    "name": "Daydream Forester",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dc/Assembly-Spirit-Daydream-Forester.png",
+    "tree": "oeVXh5azl3",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Daydream_Forester"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5a/02_HF_Seasonal_Spirit_-_Daydreaming_Forester.png"
+  }
 ]

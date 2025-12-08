@@ -1,53 +1,59 @@
 [
-    {
-      "guid": "FF8u1g9XI_",
-      "type": "Guide",
-      "name": "Flight Guide",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Flight_Guide.png",
-      "tree": "23Vo9a04Sm",
-      "treeRevisions": ["HvBGzwY6Wp"],
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Flight_Guide"
-      }
-    },
-    {
-      "guid": "9Wl9kwxoFk",
-      "type": "Season",
-      "name": "Lively Navigator",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9a/Flight-Spirit-Lively-Navigator.png",
-      "tree": "8XT3GDeonb",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Lively_Navigator"
-      }
-    },
-    {
-      "guid": "VQadeqBPEO",
-      "type": "Season",
-      "name": "Light Whisperer",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Flight-Spirit-Light-Whisperer.png",
-      "tree": "DHbvqLtLCU",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Light_Whisperer"
-      }
-    },
-    {
-      "guid": "_7-rIO21Ea",
-      "type": "Season",
-      "name": "Tinkering Chimesmith",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Flight-Spirit-Tinkering-Chimesmith.png",
-      "tree": "66idlQe3mK",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Tinkering_Chimesmith"
-      }
-    },
-    {
-      "guid": "hovmkrquOR",
-      "type": "Season",
-      "name": "Talented Builder",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ac/Flight-Spirit-Talented-Builder.png",
-      "tree": "4Zj4C2RUj1",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Talented_Builder"
-      }
+  {
+    "guid": "FF8u1g9XI_",
+    "type": "Guide",
+    "name": "Flight Guide",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Flight_Guide.png",
+    "tree": "23Vo9a04Sm",
+    "treeRevisions": [
+      "HvBGzwY6Wp"
+    ],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Flight_Guide"
     }
+  },
+  {
+    "guid": "9Wl9kwxoFk",
+    "type": "Season",
+    "name": "Lively Navigator",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9a/Flight-Spirit-Lively-Navigator.png",
+    "tree": "8XT3GDeonb",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Lively_Navigator"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/df/02_HF_Seasonal_Spirit_-_Lively_Navigator.jpg"
+  },
+  {
+    "guid": "VQadeqBPEO",
+    "type": "Season",
+    "name": "Light Whisperer",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Flight-Spirit-Light-Whisperer.png",
+    "tree": "DHbvqLtLCU",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Light_Whisperer"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e1/02_HF_Seasonal_Spirit_-_Light_Whisperer.jpg"
+  },
+  {
+    "guid": "_7-rIO21Ea",
+    "type": "Season",
+    "name": "Tinkering Chimesmith",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Flight-Spirit-Tinkering-Chimesmith.png",
+    "tree": "66idlQe3mK",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Tinkering_Chimesmith"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e4/02_HF_Seasonal_Spirit_-_Tinkering_Chimesmith.jpg"
+  },
+  {
+    "guid": "hovmkrquOR",
+    "type": "Season",
+    "name": "Talented Builder",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ac/Flight-Spirit-Talented-Builder.png",
+    "tree": "4Zj4C2RUj1",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Talented_Builder"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ec/02_HF_Seasonal_Spirit_-_Talented_Builder.jpg"
+  }
 ]

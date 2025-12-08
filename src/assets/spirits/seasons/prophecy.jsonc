@@ -1,53 +1,59 @@
 [
-    {
-      "guid": "DKFofCESGJ",
-      "type": "Guide",
-      "name": "Prophecy Guide",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/33/Prophecy-Guide-Spirit.png",
-      "tree": "SQZ7rff2Ck",
-      "treeRevisions": ["Eg-0Al8Guy"],
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Prophecy_Guide"
-      }
-    },
-    {
-      "guid": "9Rgsos9xqE",
-      "type": "Season",
-      "name": "Prophet of Water",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cf/Prophecy-Spirit-Prophet-of-Water.png",
-      "tree": "NZRfrbFo5E",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Prophet_of_Water"
-      }
-    },
-    {
-      "guid": "oIeqSdqyWu",
-      "type": "Season",
-      "name": "Prophet of Earth",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8a/Prophecy-Spirit-Prophet-of-Earth.png",
-      "tree": "26RNODjYdR",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Prophet_of_Earth"
-      }
-    },
-    {
-      "guid": "5DD07qmTqQ",
-      "type": "Season",
-      "name": "Prophet of Air",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f5/Prophecy-Spirit-Prophet-of-Air.png",
-      "tree": "llk8KwqtQo",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Prophet_of_Air"
-      }
-    },
-    {
-      "guid": "kH5B_M20Fl",
-      "type": "Season",
-      "name": "Prophet of Fire",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b7/Prophecy-Spirit-Prophet-of-Fire.png",
-      "tree": "u0qm82zESx",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Prophet_of_Fire"
-      }
+  {
+    "guid": "DKFofCESGJ",
+    "type": "Guide",
+    "name": "Prophecy Guide",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/33/Prophecy-Guide-Spirit.png",
+    "tree": "SQZ7rff2Ck",
+    "treeRevisions": [
+      "Eg-0Al8Guy"
+    ],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Prophecy_Guide"
     }
+  },
+  {
+    "guid": "9Rgsos9xqE",
+    "type": "Season",
+    "name": "Prophet of Water",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/cf/Prophecy-Spirit-Prophet-of-Water.png",
+    "tree": "NZRfrbFo5E",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Prophet_of_Water"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/13/00_ID_Seasonal_Spirit_-_Prophet_of_Water.png"
+  },
+  {
+    "guid": "oIeqSdqyWu",
+    "type": "Season",
+    "name": "Prophet of Earth",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8a/Prophecy-Spirit-Prophet-of-Earth.png",
+    "tree": "26RNODjYdR",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Prophet_of_Earth"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2d/00_ID_Seasonal_Spirit_-_Prophet_of_Earth.png"
+  },
+  {
+    "guid": "5DD07qmTqQ",
+    "type": "Season",
+    "name": "Prophet of Air",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f5/Prophecy-Spirit-Prophet-of-Air.png",
+    "tree": "llk8KwqtQo",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Prophet_of_Air"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/01/00_ID_Seasonal_Spirit_-_Prophet_of_Air.png"
+  },
+  {
+    "guid": "kH5B_M20Fl",
+    "type": "Season",
+    "name": "Prophet of Fire",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b7/Prophecy-Spirit-Prophet-of-Fire.png",
+    "tree": "u0qm82zESx",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Prophet_of_Fire"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c5/00_ID_Seasonal_Spirit_-_Prophet_of_Fire.jpg"
+  }
 ]

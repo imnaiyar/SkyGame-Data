@@ -1,72 +1,78 @@
 [
-    {
-      "guid": "jM6IlC8yk8",
-      "type": "Guide",
-      "name": "Gratitude Guide",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Gratitude-Guide-Spirit.png",
-      "tree": "e_dcWfqWdl",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Gratitude_Guide"
-      }
-    },
-    {
-      "guid": "0yGgX4Yk3c",
-      "type": "Season",
-      "name": "Sassy Drifter",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Gratitude-Spirit-Sassy-Drifter.png",
-      "tree": "emS7DU5ndh",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Sassy_Drifter"
-      }
-    },
-    {
-      "guid": "Q-N8n-0b8O",
-      "type": "Season",
-      "name": "Stretching Guru",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/46/Gratitude-Spirit-Stretching-Guru.png",
-      "tree": "s4j4vrnNCR",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Stretching_Guru"
-      }
-    },
-    {
-      "guid": "lmydkMDQeP",
-      "type": "Season",
-      "name": "Provoking Performer",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/25/Gratitude-Spirit-Provoking-Performer.png",
-      "tree": "R-TxhzmvlY",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Provoking_Performer"
-      }
-    },
-    {
-      "guid": "JROKFatVLC",
-      "type": "Season",
-      "name": "Leaping Dancer",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Gratitude-Spirit-Leaping-Dancer.png",
-      "tree": "C1UHeaHfp1",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Leaping_Dancer"
-      }
-    },
-    {
-      "guid": "eToUA1mSjz",
-      "type": "Season",
-      "name": "Saluting Protector",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Gratitude-Spirit-Saluting-Protector.png",
-      "tree": "uHs_ggtE0U",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Saluting_Protector"
-      }
-    },
-    {
-      "guid": "KZaVtTUdlR",
-      "type": "Season",
-      "name": "Greeting Shaman",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3e/Gratitude-Spirit-Greeting-Shaman.png",
-      "tree": "3xelLnykRC",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Greeting_Shaman"
-      }
+  {
+    "guid": "jM6IlC8yk8",
+    "type": "Guide",
+    "name": "Gratitude Guide",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Gratitude-Guide-Spirit.png",
+    "tree": "e_dcWfqWdl",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Gratitude_Guide"
     }
+  },
+  {
+    "guid": "0yGgX4Yk3c",
+    "type": "Season",
+    "name": "Sassy Drifter",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Gratitude-Spirit-Sassy-Drifter.png",
+    "tree": "emS7DU5ndh",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Sassy_Drifter"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6b/01_Season_of_Gratitude_-_Sassy_Drifter.png"
+  },
+  {
+    "guid": "Q-N8n-0b8O",
+    "type": "Season",
+    "name": "Stretching Guru",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/46/Gratitude-Spirit-Stretching-Guru.png",
+    "tree": "s4j4vrnNCR",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Stretching_Guru"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/01_DP_Spirit_-_Stretching_Guru.png"
+  },
+  {
+    "guid": "lmydkMDQeP",
+    "type": "Season",
+    "name": "Provoking Performer",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/25/Gratitude-Spirit-Provoking-Performer.png",
+    "tree": "R-TxhzmvlY",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Provoking_Performer"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/de/02_HF_Seasonal_Spirit_-_Provoking_Performer.png"
+  },
+  {
+    "guid": "JROKFatVLC",
+    "type": "Season",
+    "name": "Leaping Dancer",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Gratitude-Spirit-Leaping-Dancer.png",
+    "tree": "C1UHeaHfp1",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Leaping_Dancer"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bf/03_VT_Seasonal_Spirit_-_Leaping_Dancer.jpg"
+  },
+  {
+    "guid": "eToUA1mSjz",
+    "type": "Season",
+    "name": "Saluting Protector",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/82/Gratitude-Spirit-Saluting-Protector.png",
+    "tree": "uHs_ggtE0U",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Saluting_Protector"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/08/04_GW_Seasonal_Spirit_-_Saluting_Protector.jpg"
+  },
+  {
+    "guid": "KZaVtTUdlR",
+    "type": "Season",
+    "name": "Greeting Shaman",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/3e/Gratitude-Spirit-Greeting-Shaman.png",
+    "tree": "3xelLnykRC",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Greeting_Shaman"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/66/05_VK_Seasonal_Spirit_-_Greeting_Shaman.jpg"
+  }
 ]

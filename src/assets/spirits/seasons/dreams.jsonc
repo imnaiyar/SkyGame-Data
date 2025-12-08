@@ -1,53 +1,59 @@
 [
-    {
-      "guid": "sj6YhQZQvM",
-      "type": "Guide",
-      "name": "Dreams Guide",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Dreams-Guide-Spirit.png",
-      "tree": "f74U1Fp5Nk",
-      "treeRevisions": ["ixRjlBpKXC"],
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Dreams_Guide"
-      }
-    },
-    {
-      "guid": "KhFZE8z0-I",
-      "type": "Season",
-      "name": "Bearhug Hermit",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Dreams-Spirit-Bearhug-Hermit.png",
-      "tree": "Dz7xSJMui2",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Bearhug_Hermit"
-      }
-    },
-    {
-      "guid": "7tMB-HjDin",
-      "type": "Season",
-      "name": "Dancing Performer",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9a/Dreams-Spirit-Dancing-Performer.png",
-      "tree": "zUy1Dlkzbl",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Dancing_Performer"
-      }
-    },
-    {
-      "guid": "Jd8rEzWHVg",
-      "type": "Season",
-      "name": "Peeking Postman",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8a/Dreams-Spirit-Peeking-Postman.png",
-      "tree": "sxbsSa-E47",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Peeking_Postman"
-      }
-    },
-    {
-      "guid": "Ej3SZgZ2WL",
-      "type": "Season",
-      "name": "Spinning Mentor",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2b/Dreams-Spirit-Spinning-Mentor.png",
-      "tree": "duRfvp3IvK",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Spinning_Mentor"
-      }
+  {
+    "guid": "sj6YhQZQvM",
+    "type": "Guide",
+    "name": "Dreams Guide",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9b/Dreams-Guide-Spirit.png",
+    "tree": "f74U1Fp5Nk",
+    "treeRevisions": [
+      "ixRjlBpKXC"
+    ],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Dreams_Guide"
     }
+  },
+  {
+    "guid": "KhFZE8z0-I",
+    "type": "Season",
+    "name": "Bearhug Hermit",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/31/Dreams-Spirit-Bearhug-Hermit.png",
+    "tree": "Dz7xSJMui2",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Bearhug_Hermit"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9d/03_VT_Seasonal_Spirit_-_Bearhug_Hermit.jpg"
+  },
+  {
+    "guid": "7tMB-HjDin",
+    "type": "Season",
+    "name": "Dancing Performer",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9a/Dreams-Spirit-Dancing-Performer.png",
+    "tree": "zUy1Dlkzbl",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Dancing_Performer"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/03_VT_Seasonal_Spirit_-_Dancing_Performer.jpg"
+  },
+  {
+    "guid": "Jd8rEzWHVg",
+    "type": "Season",
+    "name": "Peeking Postman",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8a/Dreams-Spirit-Peeking-Postman.png",
+    "tree": "sxbsSa-E47",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Peeking_Postman"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b2/03_VT_Seasonal_Spirit_-_Peeking_Postman.png"
+  },
+  {
+    "guid": "Ej3SZgZ2WL",
+    "type": "Season",
+    "name": "Spinning Mentor",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2b/Dreams-Spirit-Spinning-Mentor.png",
+    "tree": "duRfvp3IvK",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Spinning_Mentor"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c7/03_VT_Seasonal_Spirit_-_Spinning_Mentor.jpg"
+  }
 ]

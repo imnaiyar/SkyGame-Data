@@ -1,73 +1,81 @@
 [
-    {
-      "guid": "0IoADuWn1P",
-      "type": "Guide",
-      "name": "Sanctuary Guide",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Sanctuary-Guide-Spirit.png",
-      "tree": "yZlWqKpS7C",
-      "treeRevisions": ["lSSuuP9Mx5"],
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Sanctuary_Guide"
-      }
-    },
-    {
-      "guid": "jx7koL5guD",
-      "type": "Season",
-      "name": "Jelly Whisperer",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/43/Sanctuary-Spirit-Jelly-Whisperer.png",
-      "tree": "GVghUxleba",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Jelly_Whisperer"
-      }
-    },
-    {
-      "guid": "MEw6did3kI",
-      "type": "Season",
-      "name": "Timid Bookworm",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Sanctuary-Spirit-Timid-Bookworm.png",
-      "tree": "rMbkkmBZQM",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Timid_Bookworm"
-      }
-    },
-    {
-      "guid": "IDEim-HNOZ",
-      "type": "Season",
-      "name": "Rallying Thrillseeker",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c0/Sanctuary-Spirit-Rallying-Thrillseeker.png",
-      "tree": "MLnvMI_SQf",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Rallying_Thrillseeker"
-      }
-    },
-    {
-      "guid": "z4xqXUkx_6",
-      "type": "Season",
-      "name": "Hiking Grouch",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Sanctuary-Spirit-Hiking-Grouch.png",
-      "tree": "NGPhozyesb",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Hiking_Grouch"
-      }
-    },
-    {
-      "guid": "uxtR1vVL8c",
-      "type": "Season",
-      "name": "Grateful Shell Collector",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fa/Sanctuary-Spirit-Grateful-Shell-Collector.png",
-      "tree": "a0T7_evTz6",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Grateful_Shell_Collector"
-      }
-    },
-    {
-      "guid": "8N9cC4SvzM",
-      "type": "Season",
-      "name": "Chill Sunbather",
-      "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Sanctuary-Spirit-Chill-Sunbather.png",
-      "tree": "MwCPwxfL0B",
-      "_wiki": {
-        "href": "https://sky-children-of-the-light.fandom.com/wiki/Chill_Sunbather"
-      }
+  {
+    "guid": "0IoADuWn1P",
+    "type": "Guide",
+    "name": "Sanctuary Guide",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/db/Sanctuary-Guide-Spirit.png",
+    "tree": "yZlWqKpS7C",
+    "treeRevisions": [
+      "lSSuuP9Mx5"
+    ],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Sanctuary_Guide"
     }
+  },
+  {
+    "guid": "jx7koL5guD",
+    "type": "Season",
+    "name": "Jelly Whisperer",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/43/Sanctuary-Spirit-Jelly-Whisperer.png",
+    "tree": "GVghUxleba",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Jelly_Whisperer"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/01_DP_Spirit_-_Jelly_Whisperer.png"
+  },
+  {
+    "guid": "MEw6did3kI",
+    "type": "Season",
+    "name": "Timid Bookworm",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Sanctuary-Spirit-Timid-Bookworm.png",
+    "tree": "rMbkkmBZQM",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Timid_Bookworm"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/10/01_DP_Spirit_-_Timid_Bookworm.png"
+  },
+  {
+    "guid": "IDEim-HNOZ",
+    "type": "Season",
+    "name": "Rallying Thrillseeker",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c0/Sanctuary-Spirit-Rallying-Thrillseeker.png",
+    "tree": "MLnvMI_SQf",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Rallying_Thrillseeker"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/81/01_DP_Spirit_-_Rallying_Thrillseeker.png"
+  },
+  {
+    "guid": "z4xqXUkx_6",
+    "type": "Season",
+    "name": "Hiking Grouch",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Sanctuary-Spirit-Hiking-Grouch.png",
+    "tree": "NGPhozyesb",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Hiking_Grouch"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ce/01_DP_Spirit_-_Hiking_Grouch.png"
+  },
+  {
+    "guid": "uxtR1vVL8c",
+    "type": "Season",
+    "name": "Grateful Shell Collector",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fa/Sanctuary-Spirit-Grateful-Shell-Collector.png",
+    "tree": "a0T7_evTz6",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Grateful_Shell_Collector"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ed/01_DP_Spirit_-_Grateful_Shell_Collector.png"
+  },
+  {
+    "guid": "8N9cC4SvzM",
+    "type": "Season",
+    "name": "Chill Sunbather",
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Sanctuary-Spirit-Chill-Sunbather.png",
+    "tree": "MwCPwxfL0B",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Chill_Sunbather"
+    },
+    "location": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/88/01_DP_Seasonal_Spirit_-_Chill_Sunbather.png"
+  }
 ]
