@@ -1006,6 +1006,27 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/be/Shared-Space-Icon-Credit-Ed.PNG"
   },
   {
+    "id": 3045,
+    "guid": "wxb6ztJGog",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/5CandlesSpell.png"
+  },
+  {
+    "id": 3046,
+    "guid": "vmY2-qTnD3",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/5CandlesSpell.png"
+  },
+  {
+    "id": 3047,
+    "guid": "Jk1WNhfjCW",
+    "type": "Special",
+    "name": "Trail Spell",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Color-trail.png"
+  },
+  {
     "id": 2193,
     "guid": "tzVn96kQyS",
     "type": "Prop",

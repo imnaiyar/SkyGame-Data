@@ -97,6 +97,13 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8e/5CandlesSpell.png"
   },
   {
+    "id": 3044,
+    "guid": "0ttzgbcW4R",
+    "type": "Special",
+    "name": "Trail Spell",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Color-trail.png"
+  },
+  {
     "id": 18,
     "guid": "qbTj75q8dk",
     "type": "Emote",

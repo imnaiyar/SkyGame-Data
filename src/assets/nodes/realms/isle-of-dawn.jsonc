@@ -11,6 +11,17 @@
   { "guid": "rnRb03S7QQ", "item": "c9GTqnZ2-q", "c": 2 },
   { "guid": "UXd_XSAZUA", "item": "um3PQEl09a", "h": 4 },
   { "guid": "tYUfY38N9Z", "item": "BXigzQaKYN", "c": 5 },
+  // Patch 32.5
+  { "guid": "QfhLTHUm7J", "item": "kvjLVjWmZ9", "nw": "7PPLddvyrR", "n": "-SyTKr76Oo", "ne": "ebcNZSfDvD" },
+  { "guid": "7PPLddvyrR", "item": "FEF2-KzQfp", "c": 1 },
+  { "guid": "ebcNZSfDvD", "item": "X6dudcTAFc" },
+  { "guid": "-SyTKr76Oo", "item": "NWIQpbYHLo", "c": 1, "nw": "h2LIlXT7Hi", "n": "LpmRQf0Svm" },
+  { "guid": "h2LIlXT7Hi", "item": "didoncX18g", "c": 3 },
+  { "guid": "LpmRQf0Svm", "item": "CddPMyDNH_", "ac": 1, "n": "qk51Rc6Wcq" },
+  { "guid": "qk51Rc6Wcq", "item": "GAEC5m-uk9", "c": 2, "nw": "Ciw0zTMHDC", "n": "x2aJFiJwea", "ne": "JcobvOLaIT" },
+  { "guid": "Ciw0zTMHDC", "item": "c9GTqnZ2-q", "c": 2 },
+  { "guid": "JcobvOLaIT", "item": "um3PQEl09a", "h": 4 },
+  { "guid": "x2aJFiJwea", "item": "0ttzgbcW4R", "c": 5 },
   // Ushering Stargazer
   { "guid": "la5LuzVr3o", "item": "qbTj75q8dk", "nw": "AU-eEDYWrf", "ne": "LRY_ZoQvcH", "n": "xW4oId07rV" },
   { "guid": "AU-eEDYWrf", "item": "9MxRR5To8o", "c": 1 },

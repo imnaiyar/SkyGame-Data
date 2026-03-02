@@ -13,6 +13,17 @@
   { "guid": "1i5uAlV6Y0", "item": "SZi2c1Z73f" },
   { "guid": "1FPF_gcA7k", "item": "GVB1FbKhtN" },
   { "guid": "t8aiIz9-KN", "item": "tzVn96kQyS", "ac": 66 },
+  // Patch 32.5
+  { "guid": "rHJ2Z2GiDz", "item": "hJxfPYZKM7", "nw": "zIFPrKkJ7I", "n": "LDqxoHDgwW", "ne": "f6wuooclHf" },
+  { "guid": "zIFPrKkJ7I", "item": "mGY5Ce6Reu" },
+  { "guid": "f6wuooclHf", "item": "wxb6ztJGog" },
+  { "guid": "LDqxoHDgwW", "item": "8tjPKLsl7Z", "nw": "CQs3YdX61Y", "n": "5PAg9a9AT8", "ne": "FoEEjLCjZE" },
+  { "guid": "CQs3YdX61Y", "item": "FrHTa_0dl7" },
+  { "guid": "FoEEjLCjZE", "item": "vmY2-qTnD3" },
+  { "guid": "5PAg9a9AT8", "item": "S_cbFik2cQ", "nw": "NgCtwzZ6sv", "n": "P_f9nczfoU", "ne": "EKLXkBcUrg" },
+  { "guid": "NgCtwzZ6sv", "item": "SZi2c1Z73f" },
+  { "guid": "EKLXkBcUrg", "item": "Jk1WNhfjCW" },
+  { "guid": "P_f9nczfoU", "item": "tzVn96kQyS", "ac": 66 },
   // #endregion
   // #region Nest
   { "guid": "FxLsYH5-sj", "item": "PEMOoFtoIK", "nw": "NM5-XriIuX", "n": "fBvMBX6sxp" },
