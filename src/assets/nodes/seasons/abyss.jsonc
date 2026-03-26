@@ -94,6 +94,18 @@
   { "guid": "lCOwXBBIQm", "item": "3QYgeQvXXu", "c": 5, "nw": "kDmq7slWfV", "n": "SU98m8IQE2" },
   { "guid": "kDmq7slWfV", "item": "aoo9OjQKpZ", "c": 40 },
   { "guid": "SU98m8IQE2", "item": "_qGl7VRl35", "c": 70 },
+  // TS 162
+  { "guid": "hIGQWmuIvv", "item": "Ei9pBqI3yK", "nw": "LsE-vE9wpS", "n": "sAQdupoc5B" },
+  { "guid": "LsE-vE9wpS", "item": "FETTumn6J-", "h": 4 },
+  { "guid": "sAQdupoc5B", "item": "RVcOixT4ox", "c": 5, "nw": "syowdbxpSi", "n": "WTCe4o4Khp", "ne": "KEhn1impr_" },
+  { "guid": "syowdbxpSi", "item": "WwuCeXn8wy", "c": 45 },
+  { "guid": "KEhn1impr_", "item": "1UjXVxWRSA", "c": 3 },
+  { "guid": "WTCe4o4Khp", "item": "hFsueN5kVb", "ac": 2, "n": "BgBRKE-V9W" },
+  { "guid": "BgBRKE-V9W", "item": "aDDMg7WuIc", "h": 3, "nw": "CQm2APMFZ6", "n": "FuECurPVG2" },
+  { "guid": "CQm2APMFZ6", "item": "TKVZD91Ur_", "h": 6 },
+  { "guid": "FuECurPVG2", "item": "3QYgeQvXXu", "c": 5, "nw": "K88Easrn7J", "n": "c_fLL6B0-U" },
+  { "guid": "K88Easrn7J", "item": "aoo9OjQKpZ", "c": 40 },
+  { "guid": "c_fLL6B0-U", "item": "_qGl7VRl35", "c": 70 },
   // #endregion
   // Bumbling Boatswain
   { "guid": "8rargE3UTh", "item": "VHBoJkhQ24", "nw": "pqt0bNvf0T", "n": "S_ZcrNMF7Y" },
