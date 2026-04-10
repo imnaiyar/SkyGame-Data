@@ -358,6 +358,7 @@
     "guid": "KLEF2ZNll3",
     "name": "Ocean Wave Mask",
     "price": 19.99,
+    "returning": true,
     "c": 75,
     "items": [
       "EocwmiV_Vf"
