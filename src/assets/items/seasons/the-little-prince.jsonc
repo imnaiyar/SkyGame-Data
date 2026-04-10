@@ -10,7 +10,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Rose#Ultimate_Gifts"
     },
-    "order": 557
+    "order": 561
   },
   {
     "id": 458,
@@ -23,7 +23,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Rose#Ultimate_Gifts"
     },
-    "order": 245
+    "order": 246
   },
   {
     "id": 459,
@@ -49,7 +49,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/The_Rose#Ultimate_Gifts"
     },
-    "order": 689
+    "order": 693
   },
   {
     "id": 461,
@@ -224,7 +224,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Beckoning_Ruler#Hair"
     },
-    "order": 243,
+    "order": 244,
     "group": "SeasonPass"
   },
   {
@@ -260,7 +260,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Beckoning_Ruler#Mask"
     },
-    "order": 484
+    "order": 488
   },
   {
     "id": 1259,
@@ -389,7 +389,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Gloating_Narcissist#Hair"
     },
-    "order": 241
+    "order": 242
   },
   {
     "id": 1272,
@@ -462,7 +462,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stretching_Lamplighter#Hair"
     },
-    "order": 242,
+    "order": 243,
     "group": "SeasonPass"
   },
   {
@@ -498,7 +498,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Stretching_Lamplighter#Cape"
     },
-    "order": 944
+    "order": 951
   },
   {
     "id": 1283,
@@ -571,7 +571,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Slouching_Soldier#Hair"
     },
-    "order": 240,
+    "order": 241,
     "group": "SeasonPass"
   },
   {
@@ -627,7 +627,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Slouching_Soldier#Cape"
     },
-    "order": 943
+    "order": 950
   },
   {
     "id": 1294,
@@ -693,7 +693,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sneezing_Geographer#Hair"
     },
-    "order": 244
+    "order": 245
   },
   {
     "id": 1301,
@@ -743,7 +743,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Sneezing_Geographer#Cape"
     },
-    "order": 945,
+    "order": 952,
     "group": "SeasonPass"
   },
   {
@@ -802,7 +802,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Star_Collector#Neck_Accessory"
     },
-    "order": 577
+    "order": 581
   },
   {
     "id": 1312,
@@ -852,7 +852,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Star_Collector#Cape"
     },
-    "order": 942,
+    "order": 949,
     "group": "SeasonPass"
   },
   {
@@ -865,7 +865,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Star_Collector#Prop"
     },
-    "order": 688
+    "order": 692
   },
   {
     "id": 1318,
@@ -908,7 +908,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Little_Prince#Little_Prince_Scarf_Cape"
     },
-    "order": 946
+    "order": 953
   },
   {
     "id": 1323,
@@ -921,7 +921,7 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Little_Prince#Little_Prince_Asteroid_Jacket"
     },
-    "order": 947
+    "order": 954
   },
   {
     "id": 1324,
@@ -934,6 +934,6 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_The_Little_Prince#Little_Prince_Fox_Prop"
     },
-    "order": 690
+    "order": 694
   }
 ]
