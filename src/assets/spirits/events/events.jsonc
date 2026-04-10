@@ -67,11 +67,12 @@
     "type": "Event",
     "name": "Days of Nature Guide"
   },
+  // Nature Guide 2026
   {
-    "guid": "UDMXqpF36l",  //2026
+    "guid": "UDMXqpF36l",
     "type": "Event",
     "name": "Nature Guide",
-    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7b/Bloom-Sunflower-Guide.png"
+    "imageUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/34/Days-of-Nature-Guide-2026.png"
   },
   // Days of Rainbow
   {
