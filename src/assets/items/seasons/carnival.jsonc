@@ -59,7 +59,7 @@
   },
   {
     "id": 3072,
-    "guid": "j5u50Fb1sw",
+    "guid": "8zdN52xHaw",
     "type": "Special",
     "name": "Blessing",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
@@ -237,6 +237,13 @@
   },
   {
     "id": 3091,
+    "guid": "gY0PT3KyNh",
+    "type": "Special",
+    "name": "White dye",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/f5/Black-dye-container-icon.png"
+  },
+  {
+    "id": 3092,
     "guid": "kiVKAerKu7",
     "type": "Cape",
     "name": "Carnival Athletic Dancer Cape",
@@ -248,7 +255,7 @@
     }
   },
   {
-    "id": 3092,
+    "id": 3093,
     "guid": "dJjHeZwUgR",
     "type": "Outfit",
     "name": "Carnival Athletic Dancer Outfit",
@@ -259,7 +266,7 @@
     }
   },
   {
-    "id": 3093,
+    "id": 3094,
     "guid": "2FR6P6So5N",
     "type": "Emote",
     "name": "Carnival Athletic Dance",
@@ -271,7 +278,7 @@
     }
   },
   {
-    "id": 3095,
+    "id": 3096,
     "guid": "aAsWD_5Fxj",
     "type": "Special",
     "name": "Season Heart",
@@ -279,7 +286,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Carnival-Heart.png"
   },
   {
-    "id": 3096,
+    "id": 3097,
     "guid": "DQ23RxuC0p",
     "type": "Emote",
     "name": "Carnival Puzzle Director Emote",
@@ -290,21 +297,21 @@
     }
   },
   {
-    "id": 3097,
+    "id": 3098,
     "guid": "K0t4FNyq3i",
     "type": "Special",
     "name": "Blessing",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
   },
   {
-    "id": 3098,
+    "id": 3099,
     "guid": "wHwE1p58uB",
     "type": "Special",
     "name": "Accompany Carnival Puzzle Director",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
   },
   {
-    "id": 3099,
+    "id": 3100,
     "guid": "zuyEeW2H9k",
     "type": "Music",
     "name": "Carnival Puzzle Director Music Sheet",
@@ -313,5 +320,234 @@
       "href": ""
     },
     "sheet": ""
+  },
+  {
+    "id": 3101,
+    "guid": "ihhnJdKjn7",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 3102,
+    "guid": "RXEbaCi3SP",
+    "type": "Emote",
+    "name": "Carnival Puzzle Director Juggle",
+    "level": 2,
+    "icon": "",
+    "group":"SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3103,
+    "guid": "KMcLyS2quw",
+    "type": "Emote",
+    "name": "Carnival Puzzle Director Juggle",
+    "level": 3,
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3104,
+    "guid": "W1p0AC52kJ",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 3105,
+    "guid": "gEYmO-_f9i",
+    "type": "Outfit",
+    "name": "Carnival Puzzle Director Outfit",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3106,
+    "guid": "8njNqN93Tz",
+    "type": "HeadAccessory",
+    "name": "Carnival Puzzle Director Hat",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  
+  {
+    "id": 3107,
+    "guid": "fMU5ZETUM9",
+    "type": "Emote",
+    "name": "Carnival Puzzle Director Juggle",
+    "level": 4,
+    "icon": "",
+    "group":"SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3108,
+    "guid": "Lh-GtlP5L-",
+    "type": "Hair",
+    "name": "Carnival Puzzle Director Hair",
+    "icon": "",
+    "previewUrl": "",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3109,
+    "guid": "GfrCHEHW_q",
+    "type": "Special",
+    "name": "Season Heart",
+    "group": "SeasonPass",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Carnival-Heart.png"
+  },
+  {
+    "id": 3110,
+    "guid": "w0GLasntkr",
+    "type": "Emote",
+    "name": "Carnival thumbs up",
+    "level": 1,
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3111,
+    "guid": "N4aaq1aZdB",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 3112,
+    "guid": "Tsq_eSyWh3",
+    "type": "Special",
+    "name": "Accompany Carnival Stunt Actor",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/35/Spirit-relationship-follow-icon.png"
+  },
+  {
+    "id": 3113,
+    "guid": "C7uJNuyqfU",
+    "type": "Cape",
+    "name": "Carnival Stunt Actor Cape",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3114,
+    "guid": "-rSQCYZzXud",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 3115,
+    "guid": "-yJ50uKqu6a",
+    "type": "Emote",
+    "name": "Carnival thumbs up",
+    "level": 2,
+    "icon": "",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3116,
+    "guid": "ayxO3RrFH0",
+    "type": "Emote",
+    "name": "Carnival thumbs up",
+    "level": 3,
+    "icon": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3117,
+    "guid": "3GoMNCb11B",
+    "type": "Special",
+    "name": "Blessing",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Special-event-spell-icon.png"
+  },
+  {
+    "id": 3118,
+    "guid": "q5MIPBUDu6",
+    "type": "Outfit",
+    "name": "Carnival Stunt Actor Outfit",
+    "icon": "",
+    "previewUrl": "",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3119,
+    "guid": "-2FR6P6So5N",
+    "type": "HeadAccessory",
+    "name": "Carnival Stunt Actor Hat",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3120,
+    "guid": "yJ50uKqu6a",
+    "type": "Emote",
+    "name": "Carnival thumbs up",
+    "level": 4,
+    "icon": "",
+    "group": "SeasonPass",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3121,
+    "guid": "BEFoomKp1-",
+    "type": "HairAccessory",
+    "name": "Carnival Stunt Actor Goggles",
+    "icon": "",
+    "previewUrl": "",
+    "_wiki": {
+      "href": ""
+    }
+  },
+  {
+    "id": 3122,
+    "guid": "3NDawh9p6X",
+    "type": "Special",
+    "name": "Season Heart",
+    "group": "SeasonPass",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a0/Season-of-Carnival-Heart.png"
+  },
+  {
+    "id": 3123,
+    "guid": "8BR4UCzOaB",
+    "type": "Quest",
+    "name": "Quest 1",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8b/Exclamation-mark-Ray.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Carnival#Quest_#1"
+    }
   }
 ]

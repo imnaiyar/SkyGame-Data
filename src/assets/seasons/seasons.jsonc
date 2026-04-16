@@ -718,6 +718,30 @@
     "_calendar": {
       "href": "https://skydreamers.notion.site/Season-of-Lightmending-2e08261c87dd80f6adf1da85bc843023"
     }
+  },
+  {
+    "guid": "V6dEMBpbBH",
+    "name": "Season of Carnival",
+    "shortName": "Carnival",
+    "iconUrl": "",
+    "imageUrl": "",
+    "year": 2026,
+    "date": "2026-04-17",
+    "endDate": "2026-07-16",
+    "spirits": [
+      "JGWXCmBmxi",
+      "-tFOmsGdoa",
+      "PHK8kWbPjy",
+      "Ygn2Cf0DJL",
+      "BuejYIbW1r"
+    ],
+    "shops": [],
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Carnival"
+    },
+    "_calendar": {
+      "href": ""
+    }
   }
   // #endregion
 ]
