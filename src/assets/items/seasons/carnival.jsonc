@@ -5,7 +5,7 @@
     "type": "Necklace",
     "name": "Carnival Ultimate Pendant",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/59/Carnival-Ultimate-Pendant.png",
     "group": "Ultimate",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Seasonal_Pendant"
@@ -17,7 +17,7 @@
     "type": "Hair",
     "name": "Carnival Ultimate Hair",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/04/Carnival-Ultimate-Hair-front.png",
     "group": "Ultimate",
     "_wiki": {
       "href": ""
@@ -29,7 +29,7 @@
     "type": "Cape",
     "name": "Carnival Ultimate Cape",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Carnival-Ultimate-Cape-back.png",
     "group": "Ultimate",
     "_wiki": {
       "href": ""
@@ -50,9 +50,9 @@
     "id": 3071,
     "guid": "OXPSCck3ZR",
     "type": "Emote",
-    "name": "Carnival juggle",
+    "name": "Ball Spin Trick",
     "level": 1,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Carnival-Juggler-Emote-icon.png",
     "_wiki": {
       "href": ""
     }
@@ -77,7 +77,7 @@
     "type": "Mask",
     "name": "Carnival Juggler Mask",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Carnival-Juggler-Mask-front.png",
     "_wiki": {
       "href": ""
     }
@@ -93,9 +93,9 @@
     "id": 3076,
     "guid": "wqNy2PZ1cD",
     "type": "Emote",
-    "name": "Carnival juggle",
+    "name": "Ball Spin Trick",
     "level": 2,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Carnival-Juggler-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
@@ -105,9 +105,9 @@
     "id": 3077,
     "guid": "yVEsX1alCQ",
     "type": "Emote",
-    "name": "Carnival juggle",
+    "name": "Ball Spin Trick",
     "level": 3,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Carnival-Juggler-Emote-icon.png",
     "_wiki": {
       "href": ""
     }
@@ -125,7 +125,7 @@
     "type": "Necklace",
     "name": "Carnival Juggler Colar",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/Carnival-Juggler-Neck-Accessory-front.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
@@ -137,6 +137,7 @@
     "type": "Outfit",
     "name": "Carnival Juggler Outfit",
     "icon": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4b/Carnival-Juggler-Outfit-front.png",
     "_wiki": {
       "href": ""
     }
@@ -145,9 +146,9 @@
     "id": 3081,
     "guid": "nNBevHb2gY",
     "type": "Emote",
-    "name": "Carnival juggle",
+    "name": "Ball Spin Trick",
     "level": 4,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Carnival-Juggler-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
@@ -173,9 +174,9 @@
     "id": 3084,
     "guid": "okqH0w4T5G",
     "type": "Emote",
-    "name": "Carnival Athletic Dance",
+    "name": "Break Dance",
     "level": 1,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/be/Carnival-Athletic-Dancer-Emote-icon.png",
     "_wiki": {
       "href": ""
     }
@@ -199,7 +200,7 @@
     "guid": "C7uJNuyqfU",
     "type": "Mask",
     "name": "Carnival Athletic Dancer Mask",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b5/Carnival-Athletic-Dancer-Mask-real.png",
     "previewUrl": "",
     "_wiki": {
       "href": ""
@@ -216,9 +217,9 @@
     "id": 3089,
     "guid": "yJ50uKqu6a",
     "type": "Emote",
-    "name": "Carnival Athletic Dance",
+    "name": "Break Dance",
     "level": 2,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/be/Carnival-Athletic-Dancer-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
@@ -228,9 +229,9 @@
     "id": 3090,
     "guid": "vV3rwZx_Q8",
     "type": "Emote",
-    "name": "Carnival Athletic Dance",
+    "name": "Break Dance",
     "level": 3,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/be/Carnival-Athletic-Dancer-Emote-icon.png",
     "_wiki": {
       "href": ""
     }
@@ -249,7 +250,7 @@
     "name": "Carnival Athletic Dancer Cape",
     "icon": "",
     "group": "SeasonPass",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8f/Carnival-Athletic-Dancer-Cape-back.png",
     "_wiki": {
       "href": ""
     }
@@ -260,7 +261,7 @@
     "type": "Outfit",
     "name": "Carnival Athletic Dancer Outfit",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/09/Carnival-Athletic-Dancer-Outfit-front.png",
     "_wiki": {
       "href": ""
     }
@@ -269,9 +270,9 @@
     "id": 3094,
     "guid": "2FR6P6So5N",
     "type": "Emote",
-    "name": "Carnival Athletic Dance",
+    "name": "Break Dance",
     "level": 4,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/be/Carnival-Athletic-Dancer-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
@@ -289,9 +290,9 @@
     "id": 3097,
     "guid": "DQ23RxuC0p",
     "type": "Emote",
-    "name": "Carnival Puzzle Director Emote",
+    "name": "Take Notes",
     "level": 1,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Carnival-Puzzle-Director-Emote-icon.png",
     "_wiki": {
       "href": ""
     }
@@ -332,9 +333,9 @@
     "id": 3102,
     "guid": "RXEbaCi3SP",
     "type": "Emote",
-    "name": "Carnival Puzzle Director Juggle",
+    "name": "Take Notes",
     "level": 2,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Carnival-Puzzle-Director-Emote-icon.png",
     "group":"SeasonPass",
     "_wiki": {
       "href": ""
@@ -344,9 +345,9 @@
     "id": 3103,
     "guid": "KMcLyS2quw",
     "type": "Emote",
-    "name": "Carnival Puzzle Director Juggle",
+    "name": "Take Notes",
     "level": 3,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Carnival-Puzzle-Director-Emote-icon.png",
     "_wiki": {
       "href": ""
     }
@@ -364,7 +365,7 @@
     "type": "Outfit",
     "name": "Carnival Puzzle Director Outfit",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2f/Carnival-Puzzle-Director-Outfit-front.png",
     "_wiki": {
       "href": ""
     }
@@ -375,7 +376,7 @@
     "type": "HeadAccessory",
     "name": "Carnival Puzzle Director Hat",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e3/Carnival-Puzzle-Director-Head-Accessory-front.png",
     "_wiki": {
       "href": ""
     }
@@ -385,9 +386,9 @@
     "id": 3107,
     "guid": "fMU5ZETUM9",
     "type": "Emote",
-    "name": "Carnival Puzzle Director Juggle",
+    "name": "Take Notes",
     "level": 4,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Carnival-Puzzle-Director-Emote-icon.png",
     "group":"SeasonPass",
     "_wiki": {
       "href": ""
@@ -399,7 +400,7 @@
     "type": "Hair",
     "name": "Carnival Puzzle Director Hair",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/78/Carnival-Puzzle-Director-Hair-front.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
@@ -417,9 +418,9 @@
     "id": 3110,
     "guid": "w0GLasntkr",
     "type": "Emote",
-    "name": "Carnival thumbs up",
+    "name": "Approve",
     "level": 1,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a3/Carnival-Stunt-Actor-Emote-icon.png",
     "_wiki": {
       "href": ""
     }
@@ -444,7 +445,7 @@
     "type": "Cape",
     "name": "Carnival Stunt Actor Cape",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Carnival-Stunt-Actor-Cape-back.png",
     "_wiki": {
       "href": ""
     }
@@ -460,9 +461,9 @@
     "id": 3115,
     "guid": "DfNbFUPfoz",
     "type": "Emote",
-    "name": "Carnival thumbs up",
+    "name": "Approve",
     "level": 2,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a3/Carnival-Stunt-Actor-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
@@ -472,9 +473,9 @@
     "id": 3116,
     "guid": "ayxO3RrFH0",
     "type": "Emote",
-    "name": "Carnival thumbs up",
+    "name": "Approve",
     "level": 3,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a3/Carnival-Stunt-Actor-Emote-icon.png",
     "_wiki": {
       "href": ""
     }
@@ -513,9 +514,9 @@
     "id": 3120,
     "guid": "zxrGobTeu6",
     "type": "Emote",
-    "name": "Carnival thumbs up",
+    "name": "Approve",
     "level": 4,
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a3/Carnival-Stunt-Actor-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
       "href": ""
@@ -524,10 +525,10 @@
   {
     "id": 3121,
     "guid": "BEFoomKp1-",
-    "type": "HairAccessory",
+    "type": "HeadAccessory",
     "name": "Carnival Stunt Actor Goggles",
     "icon": "",
-    "previewUrl": "",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dc/Carnival-Stunt-Actor-Head-Accessory-front.png",
     "_wiki": {
       "href": ""
     }
