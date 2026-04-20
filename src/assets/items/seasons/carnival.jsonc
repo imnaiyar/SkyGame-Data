@@ -3,32 +3,34 @@
     "id": 3067,
     "guid": "rn-mrR3YeT",
     "type": "Necklace",
-    "name": "Carnival Ultimate Pendant",
-    "icon": "",
+    "name": "Carnival Necklace",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/51/Season-of-Carnival-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/59/Carnival-Ultimate-Pendant.png",
     "group": "Ultimate",
     "_wiki": {
-      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Seasonal_Pendant"
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Necklace"
+    },
+    "order": 591
   },
   {
     "id": 3068,
     "guid": "NQkQftFUgs",
     "type": "Hair",
     "name": "Carnival Ultimate Hair",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/33/Carnival-Ultimate-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/04/Carnival-Ultimate-Hair-front.png",
     "group": "Ultimate",
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Ultimate_Gifts"
+    },
+    "order": 307
   },
   {
     "id": 3069,
     "guid": "zZUdfICRQ2",
     "type": "Cape",
     "name": "Carnival Ultimate Cape",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ee/Carnival-Ultimate-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/14/Carnival-Ultimate-Cape-back.png",
     "dye": {
       "primary": {},
@@ -36,19 +38,21 @@
     },
     "group": "Ultimate",
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Ultimate_Gifts"
+    },
+    "order": 1033
   },
   {
     "id": 3070,
     "guid": "3P_JhPsOhm",
     "type": "Prop",
-    "name": "Carnival Bird Prop",
-    "icon": "",
-    "previewUrl": "",
+    "name": "Carnival Rhythm Bird Plush",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Carnival-Ultimate-Rhythm-Bird-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/ca/Carnival-Ultimate-Rhythm-Bird-Prop.png",
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Ultimate_Gifts"
+    },
+    "order": 730
   },
   {
     "id": 3071,
@@ -56,9 +60,10 @@
     "type": "Emote",
     "name": "Ball Spin Trick",
     "level": 1,
+    "order": 1803,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Carnival-Juggler-Emote-icon.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Juggler#Expression"
     }
   },
   {
@@ -80,15 +85,16 @@
     "guid": "2ynBk5EnIF",
     "type": "Mask",
     "name": "Carnival Juggler Mask",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/58/Carnival-Juggler-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Carnival-Juggler-Mask-front.png",
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/mask/Carnival_jugglermask.jpg"
     },
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Juggler#Mask"
+    },
+    "order": 539
   },
   {
     "id": 3075,
@@ -106,7 +112,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Carnival-Juggler-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Juggler#Expression"
     }
   },
   {
@@ -117,7 +123,7 @@
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Carnival-Juggler-Emote-icon.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Juggler#Expression"
     }
   },
   {
@@ -131,8 +137,8 @@
     "id": 3079,
     "guid": "EYqeibpIHJ",
     "type": "Necklace",
-    "name": "Carnival Juggler Neckpiece",
-    "icon": "",
+    "name": "Carnival Juggler Neck Accessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/bc/Carnival-Juggler-Neck-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/52/Carnival-Juggler-Neck-Accessory-front.png",
     "group": "SeasonPass",
     "dye": {
@@ -140,23 +146,25 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/Carnival_jugglerruffle.jpg"
     },
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Juggler#Neck_Accessory"
+    },
+    "order": 604
   },
   {
     "id": 3080,
     "guid": "My9W1ATm8Q",
     "type": "Outfit",
     "name": "Carnival Juggler Outfit",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4b/Carnival-Juggler-Outfit-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4b/Carnival-Juggler-Outfit-front.png",
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Carnival_jugglerpants.jpg"
     },
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Juggler#Outfit"
+    },
+    "order": 77
   },
   {
     "id": 3081,
@@ -167,7 +175,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/54/Carnival-Juggler-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Juggler#Expression"
     }
   },
   {
@@ -192,9 +200,10 @@
     "type": "Emote",
     "name": "Break Dance",
     "level": 1,
+    "order": 1802,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/be/Carnival-Athletic-Dancer-Emote-icon.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Athletic_Dancer#Expression"
     }
   },
   {
@@ -216,11 +225,12 @@
     "guid": "C7uJNuyqfU",
     "type": "Mask",
     "name": "Carnival Athletic Dancer Mask",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Carnival-Athletic-Dancer-Mask-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/b5/Carnival-Athletic-Dancer-Mask-real.png",
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Athletic_Dancer#Mask"
+    },
+    "order": 540
   },
   {
     "id": 3088,
@@ -238,7 +248,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/be/Carnival-Athletic-Dancer-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Athletic_Dancer#Expression"
     }
   },
   {
@@ -249,7 +259,7 @@
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/be/Carnival-Athletic-Dancer-Emote-icon.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Athletic_Dancer#Expression"
     }
   },
   {
@@ -257,14 +267,14 @@
     "guid": "gY0PT3KyNh",
     "type": "Special",
     "name": "White dye",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/64/White-dye-container-icon.png"
   },
   {
     "id": 3092,
     "guid": "kiVKAerKu7",
     "type": "Cape",
     "name": "Carnival Athletic Dancer Cape",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/c/c4/Carnival-Athletic-Dancer-Cape-icon.png",
     "group": "SeasonPass",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/8f/Carnival-Athletic-Dancer-Cape-back.png",
     "dye": {
@@ -272,23 +282,25 @@
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Carnival_dancercape.jpg"
     },
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Athletic_Dancer#Cape"
+    },
+    "order": 1032
   },
   {
     "id": 3093,
     "guid": "dJjHeZwUgR",
     "type": "Outfit",
     "name": "Carnival Athletic Dancer Outfit",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/9a/Carnival-Athletic-Dancer-Outfit-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/09/Carnival-Athletic-Dancer-Outfit-front.png",
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/outfit/Carnival_directorpants.jpg"
     },
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Athletic_Dancer#Outfit"
+    },
+    "order": 76
   },
   {
     "id": 3094,
@@ -299,7 +311,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/b/be/Carnival-Athletic-Dancer-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Athletic_Dancer#Expression"
     }
   },
   {
@@ -316,9 +328,10 @@
     "type": "Emote",
     "name": "Take Notes",
     "level": 1,
+    "order": 1804,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Carnival-Puzzle-Director-Emote-icon.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Puzzle_Director#Expression"
     }
   },
   {
@@ -339,12 +352,12 @@
     "id": 3100,
     "guid": "zuyEeW2H9k",
     "type": "Music",
-    "name": "Carnival Puzzle Director Music Sheet",
-    "icon": "",
+    "name": "Music Sheet 46",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/4e/MusicSheet.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Music_Sheets#Music_Sheet_46"
     },
-    "sheet": ""
+    "sheet": "46"
   },
   {
     "id": 3101,
@@ -360,9 +373,9 @@
     "name": "Take Notes",
     "level": 2,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Carnival-Puzzle-Director-Emote-icon.png",
-    "group":"SeasonPass",
+    "group": "SeasonPass",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Puzzle_Director#Expression"
     }
   },
   {
@@ -373,7 +386,7 @@
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Carnival-Puzzle-Director-Emote-icon.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Puzzle_Director#Expression"
     }
   },
   {
@@ -388,24 +401,25 @@
     "guid": "gEYmO-_f9i",
     "type": "Outfit",
     "name": "Carnival Puzzle Director Outfit",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d1/Carnival-Puzzle-Director-Outfit-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/2f/Carnival-Puzzle-Director-Outfit-front.png",
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Puzzle_Director#Outfit"
+    },
+    "order": 79
   },
   {
     "id": 3106,
     "guid": "8njNqN93Tz",
     "type": "HeadAccessory",
-    "name": "Carnival Puzzle Director Hat",
-    "icon": "",
+    "name": "Carnival Puzzle Director Head Accessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Carnival-Puzzle-Director-Head-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e3/Carnival-Puzzle-Director-Head-Accessory-front.png",
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Puzzle_Director#Head_Accessory"
+    },
+    "order": 380
   },
-  
   {
     "id": 3107,
     "guid": "fMU5ZETUM9",
@@ -413,9 +427,9 @@
     "name": "Take Notes",
     "level": 4,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/22/Carnival-Puzzle-Director-Emote-icon.png",
-    "group":"SeasonPass",
+    "group": "SeasonPass",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Puzzle_Director#Expression"
     }
   },
   {
@@ -423,12 +437,13 @@
     "guid": "Lh-GtlP5L-",
     "type": "Hair",
     "name": "Carnival Puzzle Director Hair",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/7d/Carnival-Puzzle-Director-Hair-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/78/Carnival-Puzzle-Director-Hair-front.png",
     "group": "SeasonPass",
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Puzzle_Director#Hair"
+    },
+    "order": 308
   },
   {
     "id": 3109,
@@ -444,9 +459,10 @@
     "type": "Emote",
     "name": "Approve",
     "level": 1,
+    "order": 1801,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a3/Carnival-Stunt-Actor-Emote-icon.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor#Expression"
     }
   },
   {
@@ -468,15 +484,16 @@
     "guid": "e5a4mhF1IX",
     "type": "Cape",
     "name": "Carnival Stunt Actor Cape",
-    "icon": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ad/Carnival-Stunt-Actor-Cape-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/d5/Carnival-Stunt-Actor-Cape-back.png",
     "dye": {
       "primary": {},
       "previewUrl": "https://sky-planner.com/assets/game/dyes/cape/Carnival_stuntcape.jpg"
     },
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor#Cape"
+    },
+    "order": 1031
   },
   {
     "id": 3114,
@@ -494,7 +511,7 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a3/Carnival-Stunt-Actor-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor#Expression"
     }
   },
   {
@@ -505,7 +522,7 @@
     "level": 3,
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a3/Carnival-Stunt-Actor-Emote-icon.png",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor#Expression"
     }
   },
   {
@@ -520,23 +537,25 @@
     "guid": "q5MIPBUDu6",
     "type": "Outfit",
     "name": "Carnival Stunt Actor Outfit",
-    "icon": "",
-    "previewUrl": "",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/6e/Carnival-Stunt-Actor-Outfit-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/8/84/Carnival-Stunt-Actor-Outfit-front.png",
     "group": "SeasonPass",
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor#Outfit"
+    },
+    "order": 78
   },
   {
     "id": 3119,
     "guid": "eJXt3-aUsV",
-    "type": "HeadAccessory",
-    "name": "Carnival Stunt Actor Hat",
-    "icon": "",
-    "previewUrl": "",
+    "type": "Hair",
+    "name": "Carnival Stunt Actor Hair",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/78/Carnival-Stunt-Actor-Hair-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/ee/Carnival-Stunt-Actor-Hair-front.png",
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor#Hair"
+    },
+    "order": 309
   },
   {
     "id": 3120,
@@ -547,19 +566,20 @@
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/a3/Carnival-Stunt-Actor-Emote-icon.png",
     "group": "SeasonPass",
     "_wiki": {
-      "href": ""
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor#Expression"
     }
   },
   {
     "id": 3121,
     "guid": "BEFoomKp1-",
     "type": "HeadAccessory",
-    "name": "Carnival Stunt Actor Goggles",
-    "icon": "",
+    "name": "Carnival Stunt Actor Head Accessory",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Carnival-Stunt-Actor-Head-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dc/Carnival-Stunt-Actor-Head-Accessory-front.png",
     "_wiki": {
-      "href": ""
-    }
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor#Head_Accessory"
+    },
+    "order": 379
   },
   {
     "id": 3122,
@@ -578,13 +598,13 @@
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Season_of_Carnival#Quest_#1"
     }
-  },  
+  },
   {
     "id": 3124,
     "guid": "f8A7rOODB8",
     "type": "Special",
     "name": "Wandering Carnival Warp",
-    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Icon_warp.png"    
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/6/67/Icon_warp.png"
   },
   {
     "id": 3125,
@@ -602,7 +622,10 @@
     "type": "Prop",
     "name": "Challenge Ball Dispenser Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/26/Challenge-Ball-Dispenser-Prop-icon.png",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Challenge-Ball-Dispenser-Prop.png"
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/7/74/Challenge-Ball-Dispenser-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+    }
   },
   {
     "id": 3127,
@@ -610,6 +633,42 @@
     "type": "Prop",
     "name": "Challenge Target Prop",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/4/40/Challenge-Target-Prop-icon.png",
-    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/06/Challenge-Target-Prop.png"
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/0/06/Challenge-Target-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+    }
+  },
+  {
+    "id": 3128,
+    "guid": "Arp_S5eGTr",
+    "type": "Prop",
+    "name": "Challenge Token Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/9/91/Challenge-Token-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/a/ae/Challenge-Token-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+    }
+  },
+  {
+    "id": 3129,
+    "guid": "MyKYmUPlXn",
+    "type": "Prop",
+    "name": "Challenge Bounce Pad Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5b/Challenge-Bounce-Pad-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/5/5d/Challenge-Bounce-Pad-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+    }
+  },
+  {
+    "id": 3130,
+    "guid": "zgRZHjhJ7s",
+    "type": "Prop",
+    "name": "Challenge Platform Prop",
+    "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/3/39/Challenge-Platform-Prop-icon.png",
+    "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/1/1e/Challenge-Platform-Prop.png",
+    "_wiki": {
+      "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Guide#Prop"
+    }
   }
 ]
