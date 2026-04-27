@@ -411,8 +411,8 @@
   {
     "id": 3106,
     "guid": "8njNqN93Tz",
-    "type": "HeadAccessory",
-    "name": "Carnival Puzzle Director Head Accessory",
+    "type": "HairAccessory",
+    "name": "Carnival Puzzle Director Hair Accessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/f/fb/Carnival-Puzzle-Director-Head-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/e/e3/Carnival-Puzzle-Director-Head-Accessory-front.png",
     "_wiki": {
@@ -572,10 +572,11 @@
   {
     "id": 3121,
     "guid": "BEFoomKp1-",
-    "type": "HeadAccessory",
-    "name": "Carnival Stunt Actor Head Accessory",
+    "type": "HairAccessory",
+    "name": "Carnival Stunt Actor Hair Accessory",
     "icon": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/2/28/Carnival-Stunt-Actor-Head-Accessory-icon.png",
     "previewUrl": "https://static.wikia.nocookie.net/sky-children-of-the-light/images/d/dc/Carnival-Stunt-Actor-Head-Accessory-front.png",
+    "group": "SeasonPass",
     "_wiki": {
       "href": "https://sky-children-of-the-light.fandom.com/wiki/Carnival_Stunt_Actor#Head_Accessory"
     },
