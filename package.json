@@ -1,9 +1,9 @@
 {
-  "name": "skygame-data",
-  "version": "1.2.6",
+  "name": "@skyhelperbot/skygame-data",
+  "version": "1.2.7",
   "description": "Data repository for SkyGame-Planner.",
   "scripts": {
-    "json-build": "node ./src/scripts/json-build.cjs",
+    "json-build": "node ./src/scripts/json-build.js",
     "serve": "node ./src/scripts/json-serve.cjs",
     "build": "npm run json-build && tsc",
     "test": "tsx tests/try-parse.ts"
@@ -21,8 +21,7 @@
     }
   },
   "files": [
-    "dist",
-    "assets"
+    "dist"
   ],
   "author": "Silverfeelin",
   "license": "MIT",
@@ -43,7 +42,7 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "jsonc-parser": "^3.3.1",
+    "jsonc-simple-parser": "^3.0.0",
     "luxon": "^3.7.2"
   }
 }

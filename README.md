@@ -1,5 +1,8 @@
 # SkyGame-Data
 
+>[!IMPORTANT]
+> This is a forked version of skygame-data by Silverfeelin that only includes utility helpers for parsing the data from the original package and doesn't include the static assets, mainly to reduce the resulting bundle size for tools that benefits from having smaller bundle. All credits to the orignal author. Install this version of the package by running `pnpm install @skyhelperbot/skygame-data`
+
 [![npm](https://img.shields.io/npm/v/skygame-data)](https://www.npmjs.com/package/skygame-data)
 
 A fan-made data repository for Sky: Children of the Light. This project contains the raw data that fuels [SkyGame-Planner](https://github.com/Silverfeelin/SkyGame-Planner). The data has been separated to make it easier to consume in other projects. Do note that various bits of data are tightly coupled to the Sky Planner, such as links to image assets contained in that project.
